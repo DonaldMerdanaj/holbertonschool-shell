@@ -1,3 +1,2 @@
 #!/bin/bash
-my_name=$USER
-eco "hello user $USER"
+echo $USER
